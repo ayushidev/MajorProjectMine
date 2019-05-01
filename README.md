@@ -1,1 +1,2 @@
-# MajorProjectMine
+# MajorProject
+Automatic Essay Grader
